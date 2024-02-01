@@ -1,0 +1,6 @@
+language: python
+script:
+    - pytest
+
+notifications:
+  email: sushanth.github@gmail.com
