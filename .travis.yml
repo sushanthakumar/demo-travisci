@@ -1,6 +1,6 @@
 language: python
 script:
-    - pytest
+    - python3 sample-test.py
 install: skip
 notifications:
   email: sushanth.github@gmail.com
